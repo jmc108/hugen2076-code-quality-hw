@@ -1,0 +1,6 @@
+variant_id,n_called,missing_rate,maf,keep
+v1,4,0,0.25,TRUE
+v2,3,0.25,0.5,TRUE
+v3,4,0,0.125,FALSE
+v4,4,0,0,FALSE
+v5,0,1,NA,FALSE
