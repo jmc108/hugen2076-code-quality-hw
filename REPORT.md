@@ -19,8 +19,3 @@ expected result, and a plausible mistake each would detect.
 State the code change, which existing test failed, and why the implementation
 rather than the test needed to change. Describe the repair.
 
-## Automation
-Explain what triggers this workflow, which command runs the tests, and why the
-last commit on GitHub (rather than unsaved/local code) is the version being checked.
-Explain why a green Actions check alone does not prove good test coverage or good
-code design.
